@@ -36,7 +36,7 @@ True
 ## Technologies Used
 
 * Python 3
-* 
+  
 * # Author
   Niharika
 * Conditional Statements (`if`, `elif`, `else`)
